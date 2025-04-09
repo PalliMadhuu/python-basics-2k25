@@ -1,0 +1,36 @@
+# Bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environment (make sure to match your folder name)
+venv/
+env/
+.venv/
+.env/  # if this is a folder, NOT the .env file
+
+# Environment variable files
+.env
+
+# Log files
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# Compiled C extensions
+*.so
+
+# Package build artifacts
+dist/
+build/
+*.egg-info/

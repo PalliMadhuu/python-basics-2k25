@@ -35,6 +35,6 @@ print(result)
 d=defaultdict(int)
 print(d['hello'])
 print(d['world'])
-print(d)
+print
         
         
