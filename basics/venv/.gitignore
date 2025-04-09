@@ -1,0 +1,53 @@
+# Bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environment folders
+venv/
+.basics/venv/
+env/
+.venv/
+
+# Environment variable files
+.env
+
+# Log files
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Pip dependency folders
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# Python cache files
+*.pyc
+*.pyo
+
+# Test result caches
+.coverage
+.cache/
+
+# mypy type checker cache
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pytest cache
+.pytest_cache/
+
+# Ignore SQLite DBs or other temporary databases
+*.db
+
+# Ignore requirements backup
+requirements*.bak
